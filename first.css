@@ -1,4 +1,4 @@
-.pra{
-    color: tomato;
-    text-align: right;
+label{
+    display: block;
+    margin: 10px;
 }
